@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class NumberGame {
+    
     public static void main(String[] args) {
         Scanner st = new Scanner(System.in);
         Random rndm = new Random();
